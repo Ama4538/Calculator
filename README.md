@@ -1,4 +1,4 @@
-![Screenshot](./Image/Screenshot.png)
+![Screenshot](./Image/CalScreenshot.png)
 
 # Calculator
 A simple Calculator able to clear, change sign, percent, and simple operation.
