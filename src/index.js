@@ -13,7 +13,6 @@ const percentBtn = document.getElementById(`percentBtn`);
 const plusminusBtn = document.getElementById(`plus&minusBtn`);
 //Counter to prevent operation spamming
 let operationCount = 1;
-let stepCount = 0;
 let decmialCount = 0;
 
 //Special btn section
@@ -38,7 +37,6 @@ equalBtn.onclick = () => {
     }
 
     currentInput.textContent = `${performOperation(currentInput.textContent)}`;
-    stepCount++;
     decmialCount = 0;
 };
 
