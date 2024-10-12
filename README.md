@@ -18,7 +18,7 @@ Accessible from https://ama4538.github.io/Calculator/
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Ama4538/Calculator.git
-    cd PortfolioV3
+    cd Calculator
     ```
 2. **Install dependencies:**
     ```bash
